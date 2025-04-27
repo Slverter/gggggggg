@@ -76,19 +76,20 @@ const BracketLeft: React.FC<BracketLeftProps> = ({height}) => {
         <svg width="42" height={height} viewBox={`0 0 42 ${height}`} fill="none" xmlns="http://www.w3.org/2000/svg" style={{ overflow: 'visible' }}>
             <path d={pathData} fill="black" ref={btnRef}/>
             <path d={pathData} fill="transparent" 
-                onMouseEnter={!isOpening ? () => bracketMouseEnter(btnRef.current) : undefined}
-                onMouseLeave={!isOpening ? () => bracketMouseLeave(btnRef.current) : undefined}
-                onMouseDown={!isOpening ? () => bracketMouseDown(btnRef.current) : undefined}
-                onMouseUp={!isOpening ? () => {
-                    bracketMouseUp(btnRef.current); 
-                    turningKnobsOff(); 
-                    if (!isArmAnimating) {
-                        if (bodyPage !== -2) {
-                            setBodyPage(bodyPage - 1);
-                        }
-                        setPageDirection(-1);
-                    };
-            }: undefined}/>
+            //     onMouseEnter={!isOpening ? () => bracketMouseEnter(btnRef.current) : undefined}
+            //     onMouseLeave={!isOpening ? () => bracketMouseLeave(btnRef.current) : undefined}
+            //     onMouseDown={!isOpening ? () => bracketMouseDown(btnRef.current) : undefined}
+            //     onMouseUp={!isOpening ? () => {
+            //         bracketMouseUp(btnRef.current); 
+            //         turningKnobsOff(); 
+            //         if (!isArmAnimating) {
+            //             if (bodyPage !== -2) {
+            //                 setBodyPage(bodyPage - 1);
+            //             }
+            //             setPageDirection(-1);
+            //         };
+            // }: undefined}
+            />
         </svg>
         </Container>
     );

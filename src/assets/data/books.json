@@ -25,5 +25,14 @@
         "pages": "40",
         "coverBW": "../book_cover/cover_bw/bw002.jpg",
         "coverColor": "../book_pages/002/002_m_01.jpg"
+    },
+    {
+        "id": "003",
+        "tags": {"default":"ㄲ", "kor": "ㅊ", "eng": "c"},
+        "date": "2024.06.12.",
+        "name": "최종윤",
+        "pages": "40",
+        "coverBW": "../book_cover/cover_bw/bw003.jpg",
+        "coverColor": "../book_pages/003/003_m_01.jpg"
     }
 ]

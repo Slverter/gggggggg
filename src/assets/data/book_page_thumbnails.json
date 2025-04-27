@@ -92,7 +92,6 @@
     {
         "id": "002",
         "thumbnails": [
-            "../book_page_thumbnails/002/002_t_00.jpg",
             "../book_page_thumbnails/002/002_t_01.jpg",
             "../book_page_thumbnails/002/002_t_02.jpg",
             "../book_page_thumbnails/002/002_t_03.jpg",
@@ -133,6 +132,51 @@
             "../book_page_thumbnails/002/002_t_38.jpg",
             "../book_page_thumbnails/002/002_t_39.jpg",
             "../book_page_thumbnails/002/002_t_40.jpg"
+        ]
+    },
+    {
+        "id": "003",
+        "thumbnails": [
+            "../book_page_thumbnails/003/003_t_01.jpg",
+            "../book_page_thumbnails/003/003_t_02.jpg",
+            "../book_page_thumbnails/003/003_t_03.jpg",
+            "../book_page_thumbnails/003/003_t_04.jpg",
+            "../book_page_thumbnails/003/003_t_05.jpg",
+            "../book_page_thumbnails/003/003_t_06.jpg",
+            "../book_page_thumbnails/003/003_t_07.jpg",
+            "../book_page_thumbnails/003/003_t_08.jpg",
+            "../book_page_thumbnails/003/003_t_09.jpg",
+            "../book_page_thumbnails/003/003_t_10.jpg",
+            "../book_page_thumbnails/003/003_t_11.jpg",
+            "../book_page_thumbnails/003/003_t_12.jpg",
+            "../book_page_thumbnails/003/003_t_13.jpg",
+            "../book_page_thumbnails/003/003_t_14.jpg",
+            "../book_page_thumbnails/003/003_t_15.jpg",
+            "../book_page_thumbnails/003/003_t_16.jpg",
+            "../book_page_thumbnails/003/003_t_17.jpg",
+            "../book_page_thumbnails/003/003_t_18.jpg",
+            "../book_page_thumbnails/003/003_t_19.jpg",
+            "../book_page_thumbnails/003/003_t_20.jpg",
+            "../book_page_thumbnails/003/003_t_21.jpg",
+            "../book_page_thumbnails/003/003_t_22.jpg",
+            "../book_page_thumbnails/003/003_t_23.jpg",
+            "../book_page_thumbnails/003/003_t_24.jpg",
+            "../book_page_thumbnails/003/003_t_25.jpg",
+            "../book_page_thumbnails/003/003_t_26.jpg",
+            "../book_page_thumbnails/003/003_t_27.jpg",
+            "../book_page_thumbnails/003/003_t_28.jpg",
+            "../book_page_thumbnails/003/003_t_29.jpg",
+            "../book_page_thumbnails/003/003_t_30.jpg",
+            "../book_page_thumbnails/003/003_t_31.jpg",
+            "../book_page_thumbnails/003/003_t_32.jpg",
+            "../book_page_thumbnails/003/003_t_33.jpg",
+            "../book_page_thumbnails/003/003_t_34.jpg",
+            "../book_page_thumbnails/003/003_t_35.jpg",
+            "../book_page_thumbnails/003/003_t_36.jpg",
+            "../book_page_thumbnails/003/003_t_37.jpg",
+            "../book_page_thumbnails/003/003_t_38.jpg",
+            "../book_page_thumbnails/003/003_t_39.jpg",
+            "../book_page_thumbnails/003/003_t_40.jpg"
         ]
     }
 ]
